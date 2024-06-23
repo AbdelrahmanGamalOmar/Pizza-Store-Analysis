@@ -4,6 +4,7 @@ This project conducts an analysis of sales data from a pizza store, focusing on 
 and generating insightful charts to understand sales trends and preferences
 
 Key Features of Analysis and Visualization:
+
 Key Performance Indicators (KPIs): 
 - Total Revenue  
 - Average Order Value 
