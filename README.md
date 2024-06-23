@@ -4,11 +4,18 @@ This project conducts an analysis of sales data from a pizza store, focusing on 
 and generating insightful charts to understand sales trends and preferences
 
 Key Features of Analysis and Visualization:
-- Key Performance Indicators (KPIs) 
- - Total Revenue  
- - Average Order Value 
- - Total Pizza Sold 
- - Total Orders
- -  Average Pizza Per Order
+Key Performance Indicators (KPIs): 
+- Total Revenue  
+- Average Order Value 
+- Total Pizza Sold 
+- Total Orders
+-  Average Pizza Per Order
 
-Charts Requirements (Orders by Day - Orders by Month - Sales Percentage by Pizza Category - Sales Percentage by Pizza Size - Top 5 Pizzas by Revenue - Top 5 Pizzas by Quantity - Top 5 Pizzas by Orders)
+ Charts Requirements:
+- Orders by Day
+- Orders by Month
+- Sales Percentage by Pizza Category
+- Sales Percentage by Pizza Size
+- Top 5 Pizzas by Revenue
+- Top 5 Pizzas by Quantity
+- Top 5 Pizzas by Orders
